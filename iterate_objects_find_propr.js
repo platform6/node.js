@@ -39,5 +39,5 @@ function lookUpProfile(name, prop) {
     return "No such contact";
   }
 
-  // loop through the array of objects and find the contac tname if available find given property and return the value
-  // 
+  // loop through the array of objects and find the contact name if available find given property and return the value
+  
